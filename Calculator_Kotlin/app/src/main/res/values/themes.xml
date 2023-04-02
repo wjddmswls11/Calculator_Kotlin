@@ -17,9 +17,7 @@
 
     <style name="operatorbutton" parent="commonbutton">
         <item name="android:textColor">@color/btnBackground2</item>
-
     </style>
-
 
     <style name="digitbutton" parent="commonbutton">
         <item name="android:textColor">@color/black</item>
