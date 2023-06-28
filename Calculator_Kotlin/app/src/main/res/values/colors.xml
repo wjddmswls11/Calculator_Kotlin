@@ -10,10 +10,14 @@
 
     <color name="buttonGray">#f2f2f2 </color>
     <color name="buttonPressGray">#e2e2e2</color>
-    <color name="backgroundWhite">#fcfcfc</color>
+    <color name="backgroundWhite">#f8f8f8</color>
     <color name="textColor">#555555</color>
-    <color name="blue">#3750AD</color>
-    <color name="bluePress">#416ADF</color>
+    <color name="purple">#d5c0e7</color>
+    <color name="blue">#69b31a</color>
+    <color name="bluePress">#69a760</color>
+    <color name="red">#cc3730</color>
+
+
 
     <color name="linecolor">#DAD8D8</color>
     <color name="btnBackground">#FFFFFF</color>
